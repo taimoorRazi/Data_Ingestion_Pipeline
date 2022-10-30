@@ -1,0 +1,16 @@
+file_type: csv
+dataset_name: testfile
+file_name: large_example_file
+table_name: edsurv
+inbound_delimeter: ","
+outbound_delimeter: "|"
+skip_leading_rows: 1
+columns:
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
